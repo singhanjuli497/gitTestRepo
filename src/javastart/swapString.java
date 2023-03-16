@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	//System.out.println(last);
 	first=first.substring(last.length());
 	System.out.println("swapped first string: " + first + "\n"+"swapped last string: " + last);
+	System.out.println("New Changes");
 }
 }
 //How to swap two strings without using the third variable?
